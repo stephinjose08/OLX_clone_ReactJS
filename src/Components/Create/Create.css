@@ -1,7 +1,7 @@
 .centerDiv {
     border: 1px solid black;
-    width: max-content;
-    padding: 50px;
+    width: 30%;
+    padding: 20px;
     position: absolute;
     top: 65%;
     left: 50%;
@@ -13,6 +13,8 @@
     border-left-color: transparent;
     border-right-color: transparent;
     outline-color: transparent;
+    width: 100%;
+    
   }
   
   .uploadBtn {
